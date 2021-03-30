@@ -12,7 +12,7 @@ li{
 
 .trafficLight{
     background-color: black;
-    width: 130px;
+    width: 140px;
     padding: 20px;
     margin: auto;
 
@@ -40,5 +40,5 @@ li:nth-child(3){
 }
 
 .selected{
-    box-shadow: #fff 0px 0px 40px 20px;
+    box-shadow: #fff 0px 0px 15px 15px;
 }
